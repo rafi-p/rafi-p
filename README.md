@@ -1,7 +1,5 @@
-### Hi there 👋
-
-## Hi, I’m Sinan 🖖
-### I'm a web developer and UI/UX designer
+# Hi, I’m Rafi 👋
+## I'm a web developer and UI/UX designer
 #### I’m an Istanbul based front-end developer and designer, working with companies worldwide for over 10 years. I’m experienced in HTML5, JS and CSS3 and modern libraries React, Gatsby and Next.js.
 
 #### Currently working as design lead & front-end dev on SwayPay, a startup from San Francisco.
