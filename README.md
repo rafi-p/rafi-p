@@ -1,14 +1,8 @@
 # Hi, I’m Rafi 👋
-## I'm a web developer and UI/UX designer
-#### I’m an Istanbul based front-end developer and designer, working with companies worldwide for over 10 years. I’m experienced in HTML5, JS and CSS3 and modern libraries React, Gatsby and Next.js.
+## I'm a web developer
+I’m a Jakarta based front-end developer and designer, currently I'm open for some work opportunity. I’m experienced in HTML5, JS and CSS3 and modern libraries React, Vue, and Next.js.
 
-##### Currently working as design lead & front-end dev on SwayPay, a startup from San Francisco.
-
-##### ⚛️  I'm also organizing a group for React developers in Istanbul. Join us on Kommunity!
-
-##### See my portfolio: wunnle.dev
-##### Check out my blog: wunnle.com
-##### 📫  Contact me on twitter or send me an email
+See my portfolio: -
 
 <!--
 **rafi-p/rafi-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
